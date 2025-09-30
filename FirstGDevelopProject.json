@@ -1,0 +1,3610 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 242,
+    "major": 5,
+    "minor": 5,
+    "revision": 0
+  },
+  "properties": {
+    "adaptGameResolutionAtRuntime": true,
+    "antialiasingMode": "MSAA",
+    "antialisingEnabledOnMobile": false,
+    "folderProject": true,
+    "orientation": "landscape",
+    "packageName": "com.example.gamename",
+    "pixelsRounding": false,
+    "projectUuid": "013b3bb3-d66a-4fb0-a405-e20d2ce8658c",
+    "scaleMode": "linear",
+    "sizeOnStartupMode": "adaptWidth",
+    "templateSlug": "",
+    "version": "1.0.0",
+    "name": "FirstGDevelopProject",
+    "description": "",
+    "author": "",
+    "windowWidth": 1280,
+    "windowHeight": 720,
+    "latestCompilationDirectory": "",
+    "maxFPS": 60,
+    "minFPS": 20,
+    "verticalSync": false,
+    "platformSpecificAssets": {
+      "android-icon-144": "",
+      "android-icon-192": "",
+      "android-icon-36": "",
+      "android-icon-48": "",
+      "android-icon-72": "",
+      "android-icon-96": "",
+      "android-windowSplashScreenAnimatedIcon": "",
+      "desktop-icon-512": "",
+      "ios-icon-100": "",
+      "ios-icon-1024": "",
+      "ios-icon-114": "",
+      "ios-icon-120": "",
+      "ios-icon-144": "",
+      "ios-icon-152": "",
+      "ios-icon-167": "",
+      "ios-icon-180": "",
+      "ios-icon-20": "",
+      "ios-icon-29": "",
+      "ios-icon-40": "",
+      "ios-icon-50": "",
+      "ios-icon-57": "",
+      "ios-icon-58": "",
+      "ios-icon-60": "",
+      "ios-icon-72": "",
+      "ios-icon-76": "",
+      "ios-icon-80": "",
+      "ios-icon-87": ""
+    },
+    "loadingScreen": {
+      "backgroundColor": 0,
+      "backgroundFadeInDuration": 0.2,
+      "backgroundImageResourceName": "",
+      "gdevelopLogoStyle": "light",
+      "logoAndProgressFadeInDuration": 0.2,
+      "logoAndProgressLogoFadeInDelay": 0,
+      "minDuration": 1.5,
+      "progressBarColor": 16777215,
+      "progressBarHeight": 20,
+      "progressBarMaxWidth": 200,
+      "progressBarMinWidth": 40,
+      "progressBarWidthPercent": 30,
+      "showGDevelopSplash": true,
+      "showProgressBar": true
+    },
+    "watermark": {
+      "placement": "bottom-left",
+      "showWatermark": true
+    },
+    "authorIds": [],
+    "authorUsernames": [],
+    "categories": [],
+    "playableDevices": [],
+    "extensionProperties": [],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "file": "assets/Virtual Guy_Double Jump_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Double Jump_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/01cf589a778fa41dbb334b4b75d8be40e6bb511b015783889213d7f634c974c7_Virtual Guy_Double Jump_1.png",
+          "name": "Virtual Guy_Double Jump_1.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Double Jump_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Double Jump_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/01cf589a778fa41dbb334b4b75d8be40e6bb511b015783889213d7f634c974c7_Virtual Guy_Double Jump_2.png",
+          "name": "Virtual Guy_Double Jump_2.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Double Jump_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Double Jump_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/8684b4cb789d26b51245b88eb9098e4254fb073a80e53a730ed6c4aee42c4378_Virtual Guy_Double Jump_3.png",
+          "name": "Virtual Guy_Double Jump_3.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Double Jump_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Double Jump_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/8684b4cb789d26b51245b88eb9098e4254fb073a80e53a730ed6c4aee42c4378_Virtual Guy_Double Jump_4.png",
+          "name": "Virtual Guy_Double Jump_4.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Double Jump_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Double Jump_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/ffed9142d121a346969d073dc6f081ab27adebb8cb8c861dce662a15a334baff_Virtual Guy_Double Jump_5.png",
+          "name": "Virtual Guy_Double Jump_5.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Double Jump_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Double Jump_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/ffed9142d121a346969d073dc6f081ab27adebb8cb8c861dce662a15a334baff_Virtual Guy_Double Jump_6.png",
+          "name": "Virtual Guy_Double Jump_6.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Fall.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Fall.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/2026057b2ce8221c6cb1433689de70fab997d864cdf6ac6ebdd6d2cd92e3f8a3_Virtual Guy_Fall.png",
+          "name": "Virtual Guy_Fall.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Hit_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Hit_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/231494dc586f3e15542377841f80754b95761efd0bb2c3c07deb035c784615ad_Virtual Guy_Hit_1.png",
+          "name": "Virtual Guy_Hit_1.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Hit_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Hit_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/231494dc586f3e15542377841f80754b95761efd0bb2c3c07deb035c784615ad_Virtual Guy_Hit_2.png",
+          "name": "Virtual Guy_Hit_2.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Hit_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Hit_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/5e03493ecb1560de3146020fae473cd796c1c5f2ba10a30bbacab5bf6820e5f5_Virtual Guy_Hit_3.png",
+          "name": "Virtual Guy_Hit_3.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Hit_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Hit_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/9c284b392cb55f4d68e32aeb5fb1eb65517fa98357c1e161f12898a12da0ca62_Virtual Guy_Hit_4.png",
+          "name": "Virtual Guy_Hit_4.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Hit_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Hit_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/a2333e78ceadbd977a6a4f7956494d3343878383881d2a07d81addf9aa9bab7c_Virtual Guy_Hit_5.png",
+          "name": "Virtual Guy_Hit_5.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Hit_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Hit_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/9c284b392cb55f4d68e32aeb5fb1eb65517fa98357c1e161f12898a12da0ca62_Virtual Guy_Hit_6.png",
+          "name": "Virtual Guy_Hit_6.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Hit_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Hit_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/f4f4fd10ee91b91f6d1957ab7948d59ad67b0c5016ba281227c24a160ae30604_Virtual Guy_Hit_7.png",
+          "name": "Virtual Guy_Hit_7.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/5f3f5310b5ea81af218b4a6fdd36e4123f0c59aed5d5f7eb8195d948299fff28_Virtual Guy_Idle_1.png",
+          "name": "Virtual Guy_Idle_1.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Idle_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Idle_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/ee2161e7def30c8523385143b33c71db35d3ee06cb1bb8a0f7f18dc73359d523_Virtual Guy_Idle_10.png",
+          "name": "Virtual Guy_Idle_10.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Idle_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Idle_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/ee2161e7def30c8523385143b33c71db35d3ee06cb1bb8a0f7f18dc73359d523_Virtual Guy_Idle_11.png",
+          "name": "Virtual Guy_Idle_11.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/447a9efdc5c09be16f395ab074d6b598bf46ec1c98678afa47eace925c87157b_Virtual Guy_Idle_2.png",
+          "name": "Virtual Guy_Idle_2.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/447a9efdc5c09be16f395ab074d6b598bf46ec1c98678afa47eace925c87157b_Virtual Guy_Idle_3.png",
+          "name": "Virtual Guy_Idle_3.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/840ec6dc184fa8951387b096bebba8b7b13d5001cc2ffad34470d093ae38eb25_Virtual Guy_Idle_4.png",
+          "name": "Virtual Guy_Idle_4.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Idle_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/840ec6dc184fa8951387b096bebba8b7b13d5001cc2ffad34470d093ae38eb25_Virtual Guy_Idle_5.png",
+          "name": "Virtual Guy_Idle_5.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Idle_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Idle_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/926f429f9abf753747b1e08bf3a9c4ed819da6353b485adbee4a72723e87910b_Virtual Guy_Idle_6.png",
+          "name": "Virtual Guy_Idle_6.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Idle_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Idle_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/926f429f9abf753747b1e08bf3a9c4ed819da6353b485adbee4a72723e87910b_Virtual Guy_Idle_7.png",
+          "name": "Virtual Guy_Idle_7.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Idle_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Idle_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/926f429f9abf753747b1e08bf3a9c4ed819da6353b485adbee4a72723e87910b_Virtual Guy_Idle_8.png",
+          "name": "Virtual Guy_Idle_8.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Idle_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Idle_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/926f429f9abf753747b1e08bf3a9c4ed819da6353b485adbee4a72723e87910b_Virtual Guy_Idle_9.png",
+          "name": "Virtual Guy_Idle_9.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Jump.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Jump.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/73ab57558dc0ffb87339013e7543d7df789da6cfd9ed771878c0a199b5748b44_Virtual Guy_Jump.png",
+          "name": "Virtual Guy_Jump.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Run_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Run_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/d39d18387dec01743e10c70981de0b864b752e94c5b7c7785cdc023136ce0c3a_Virtual Guy_Run_1.png",
+          "name": "Virtual Guy_Run_1.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Run_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Run_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/d6b2e266969fb6230e26b80680673b0c8153e48b310512dd6eacc81ec10796b1_Virtual Guy_Run_10.png",
+          "name": "Virtual Guy_Run_10.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Run_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Run_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/4aa3c9995f947ada15a7d25b6d27316b2ccf803ae485eca50883a7dd9e904dec_Virtual Guy_Run_11.png",
+          "name": "Virtual Guy_Run_11.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Run_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Run_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/4aa3c9995f947ada15a7d25b6d27316b2ccf803ae485eca50883a7dd9e904dec_Virtual Guy_Run_12.png",
+          "name": "Virtual Guy_Run_12.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Run_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Run_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/d34e6a0f781e22b46357b25eeb70171262e2a15a71b5da226164b2b677b52ea1_Virtual Guy_Run_2.png",
+          "name": "Virtual Guy_Run_2.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Run_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Run_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/d34e6a0f781e22b46357b25eeb70171262e2a15a71b5da226164b2b677b52ea1_Virtual Guy_Run_3.png",
+          "name": "Virtual Guy_Run_3.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Run_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Run_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/83a79e578bd33d61c28c4b5dab8ccd7749ce23e1fe907f9c7c8162075d17fe96_Virtual Guy_Run_4.png",
+          "name": "Virtual Guy_Run_4.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Run_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Run_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/704717f539defaf4c49bfb79149ee244588981ece66c5c0304c4bb761d56d893_Virtual Guy_Run_5.png",
+          "name": "Virtual Guy_Run_5.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Run_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Run_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/704717f539defaf4c49bfb79149ee244588981ece66c5c0304c4bb761d56d893_Virtual Guy_Run_6.png",
+          "name": "Virtual Guy_Run_6.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Run_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Run_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/9c7629c0807c91f762c9907261c106eab3c8a932067b1ba02cc346e03a0a671d_Virtual Guy_Run_7.png",
+          "name": "Virtual Guy_Run_7.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Run_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Run_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/85105a52d3727d24ddd77ab0259c819b2aac1a728d2d8bb1cc2aa99a43be318a_Virtual Guy_Run_8.png",
+          "name": "Virtual Guy_Run_8.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Run_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Run_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/85105a52d3727d24ddd77ab0259c819b2aac1a728d2d8bb1cc2aa99a43be318a_Virtual Guy_Run_9.png",
+          "name": "Virtual Guy_Run_9.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Wall Jump_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Wall Jump_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/a3d26cfaace1db706bd4f8357392f74495b71b061d15be388c8ebb6bb151df1e_Virtual Guy_Wall Jump_1.png",
+          "name": "Virtual Guy_Wall Jump_1.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Wall Jump_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Wall Jump_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/a3d26cfaace1db706bd4f8357392f74495b71b061d15be388c8ebb6bb151df1e_Virtual Guy_Wall Jump_2.png",
+          "name": "Virtual Guy_Wall Jump_2.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Wall Jump_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Wall Jump_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/ffbd367caa2e60b01b2504ff34a709fc949ab8ba5135b58e03df70a005f2cfef_Virtual Guy_Wall Jump_3.png",
+          "name": "Virtual Guy_Wall Jump_3.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Wall Jump_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Wall Jump_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/ffbd367caa2e60b01b2504ff34a709fc949ab8ba5135b58e03df70a005f2cfef_Virtual Guy_Wall Jump_4.png",
+          "name": "Virtual Guy_Wall Jump_4.png"
+        }
+      },
+      {
+        "file": "assets/Virtual Guy_Wall Jump_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Virtual Guy_Wall Jump_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Main Characters/Virtual Guy/ffbd367caa2e60b01b2504ff34a709fc949ab8ba5135b58e03df70a005f2cfef_Virtual Guy_Wall Jump_5.png",
+          "name": "Virtual Guy_Wall Jump_5.png"
+        }
+      },
+      {
+        "file": "assets/9patch_Green Grass 9Patch_all_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9patch_Green Grass 9Patch_all_16.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Terrain/d09644b38492bb7471261a37cf98e3c9685d4284cf3a4824bd52fc9c667736dc_9patch_Green Grass 9Patch_all_16.png",
+          "name": "9patch_Green Grass 9Patch_all_16.png"
+        }
+      },
+      {
+        "file": "assets/Wood Platform.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wood Platform.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Terrain/b5ea910fe2de325b41bee2f4fe85fddabde4eb137c05b1b2096edfc64127d93e_Wood Platform.png",
+          "name": "Wood Platform.png"
+        }
+      },
+      {
+        "file": "assets/NewTiledSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Coin.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Coin.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GDevelop examples/Platformer/Level/802119165cd6e28ce73e7884d6f10a1e3ad4d4d4bdc91e5f4723528c8abc9d23_Coin.png",
+          "name": "Coin.png"
+        }
+      },
+      {
+        "file": "assets/Bat_Fly_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bat_Fly_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Enemies/63dace955b11725fdbb85ed90cfdcb7b34af1ed36e81e776f570767fa80e1cd7_Bat_Fly_1.png",
+          "name": "Bat_Fly_1.png"
+        }
+      },
+      {
+        "file": "assets/Bat_Fly_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bat_Fly_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Enemies/5f9cff627ce60481f99b1016c2e23dd0a92201025c70e89cec2af6f2b166103a_Bat_Fly_2.png",
+          "name": "Bat_Fly_2.png"
+        }
+      },
+      {
+        "file": "assets/Bat_Fly_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bat_Fly_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Enemies/0e1d8a747c447841766748ac5dce172bf70b4a21ef8e557cf45d6e2f6061c6bb_Bat_Fly_3.png",
+          "name": "Bat_Fly_3.png"
+        }
+      },
+      {
+        "file": "assets/Bat_Fly_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bat_Fly_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Enemies/f817f51a7ef0f36f62c2d608285438e14ea81a823de8a7cc1120afb728dc20eb_Bat_Fly_4.png",
+          "name": "Bat_Fly_4.png"
+        }
+      },
+      {
+        "file": "assets/Bat_Fly_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bat_Fly_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Enemies/37a5d17e6aab5db7c58c2943faf31790c13542533c581f95fbb162478910ac33_Bat_Fly_6.png",
+          "name": "Bat_Fly_6.png"
+        }
+      },
+      {
+        "file": "assets/Merged Full Background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Merged Full Background.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Backgrounds/34a4293e3c14f3b014e5d97a5faee8d20ad65701e29c0d651fba8e300188c595_Merged Full Background.png",
+          "name": "Merged Full Background.png"
+        }
+      },
+      {
+        "file": "assets/Green switch_left.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green switch_left.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Abstract Platformer Pack (370 assets)/PNG/Other/7ee32c63165a0d3c07b6820893e51f5101b5a353f35e5cdf5a37fdb2e15bea99_Green switch_left.png",
+          "name": "Green switch_left.png"
+        }
+      },
+      {
+        "file": "assets/Green switch_mid.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green switch_mid.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Abstract Platformer Pack (370 assets)/PNG/Other/6cb3e9605c6a6cd130ed922cc43befc8fd4d964b5e0d4b25c3322122cbfd5891_Green switch_mid.png",
+          "name": "Green switch_mid.png"
+        }
+      },
+      {
+        "file": "assets/Green switch_right.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green switch_right.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Abstract Platformer Pack (370 assets)/PNG/Other/44d4d44779dc918ba1e2fdbbe94d6203e7675cb0c617e8b20bd506b742da2ae7_Green switch_right.png",
+          "name": "Green switch_right.png"
+        }
+      },
+      {
+        "file": "assets/Inventory Slot Empty2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Inventory Slot Empty2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Retro Pixelart UI/Pixel art/f305fdf036385c51430f108916e26673103cf13a716df6d34e7aabafe2d77b36_Inventory Slot Empty2.png",
+          "name": "Inventory Slot Empty2.png"
+        }
+      },
+      {
+        "file": "assets/Purple Button With Stone Frame_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Purple Button With Stone Frame_Hovered.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/b2c6ef85d2088a94a58d7c457ed225561a073aa3c9e6401a612bcdd98795ae91_Purple Button With Stone Frame_Hovered.png",
+          "name": "Purple Button With Stone Frame_Hovered.png"
+        }
+      },
+      {
+        "file": "assets/Purple Button With Stone Frame_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Purple Button With Stone Frame_Idle.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/3bd79fc534fc1d2859343599ea35a2c3f81700ffebdf7b8b798be440e59ad816_Purple Button With Stone Frame_Idle.png",
+          "name": "Purple Button With Stone Frame_Idle.png"
+        }
+      },
+      {
+        "file": "assets/Purple Button With Stone Frame_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Purple Button With Stone Frame_Pressed.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/631710ee61e5e5422c9986ae91169e2e76e3f874a1aca8d2b02d6b5675348256_Purple Button With Stone Frame_Pressed.png",
+          "name": "Purple Button With Stone Frame_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/Roboto-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Roboto-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/e96b43b0ca3fd7775d75a702f44cd1b0dfd325e1db317f7cba84efdf572571fe_Roboto-Regular.ttf",
+          "name": "Roboto-Regular.ttf"
+        }
+      },
+      {
+        "file": "assets/PressStart2P-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "PressStart2P-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/House.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "House.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Building/25a026f33b5e093c8924530e3c5d5cb269192d57720b1ae766d8350f1d1f5667_House.png",
+          "name": "House.png"
+        }
+      },
+      {
+        "file": "assets/Bush foreground.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bush foreground.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Plant/dc11dc67c2107cdfeabfe2391f8f3b78a86e0274e3497cc9e8181cc6df4c2897_Bush foreground.png",
+          "name": "Bush foreground.png"
+        }
+      },
+      {
+        "file": "assets/Tile 14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tile 14.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Tiles/a1d28c6f56d81deb09d0a1fcd213ce615fe5c1db0a5239119466059f6547be01_Tile 14.png",
+          "name": "Tile 14.png"
+        }
+      },
+      {
+        "file": "assets/Cactus 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cactus 1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Background Element/Plant/025893ea2bc5cc2ba8a435ce3badaeb3105ed03741eccbaf506539cd4c24cdc0_Cactus 1.png",
+          "name": "Cactus 1.png"
+        }
+      }
+    ],
+    "resourceFolders": []
+  },
+  "objects": [
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "Text_coinCount",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "",
+      "font": "",
+      "textAlignment": "left",
+      "characterSize": 36,
+      "color": {
+        "b": 28,
+        "g": 231,
+        "r": 248
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "0;0;0",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "",
+        "font": "",
+        "textAlignment": "left",
+        "verticalTextAlignment": "top",
+        "characterSize": 36,
+        "lineHeight": 0,
+        "color": "248;231;28"
+      }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "ce75b4d3db5313cd40588a712e5cb20dffce5d9187df56eefd8fb050ceea2330",
+      "name": "Coin2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Coin.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 28,
+                        "y": 0
+                      },
+                      {
+                        "x": 28,
+                        "y": 35
+                      },
+                      {
+                        "x": 0,
+                        "y": 35
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "4b5760aae85a68f03ca4bbfcbc0976099704579ee96f1af16e75017c62f36387",
+      "name": "Virtual_Guy",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "acceleration": 1500,
+          "canGoDownFromJumpthru": true,
+          "canGrabPlatforms": false,
+          "canGrabWithoutMoving": true,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "ignoreDefaultControls": false,
+          "jumpSpeed": 600,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 250,
+          "slopeMaxAngle": 60,
+          "useLegacyTrajectory": false,
+          "useRepeatedJump": false,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "Idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.0909,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Idle_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Idle_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Idle_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Idle_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Idle_5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Idle_6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Idle_7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Idle_8.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Idle_9.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Idle_10.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Idle_11.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Run",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.0833,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Run_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Run_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Run_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Run_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Run_5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Run_6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Run_7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Run_8.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Run_9.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Run_10.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Run_11.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Run_12.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jump",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Jump.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Fall",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Fall.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hit",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.1429,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Hit_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Hit_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Hit_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Hit_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Hit_5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Hit_6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Hit_7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Double Jump",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.1667,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Double Jump_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Double Jump_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Double Jump_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Double Jump_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Double Jump_5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Double Jump_6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Wall Jump",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.2,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Wall Jump_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Wall Jump_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Wall Jump_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Wall Jump_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Virtual Guy_Wall Jump_5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 32
+                      },
+                      {
+                        "x": 5,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "d8db1841a1ea153032d2fed6232833cf9d8219d058ceade0289a719c7f9ff71f",
+      "bottomMargin": 16,
+      "height": 48,
+      "leftMargin": 16,
+      "name": "Green_Grass_9Patch",
+      "rightMargin": 16,
+      "texture": "9patch_Green Grass 9Patch_all_16.png",
+      "tiled": true,
+      "topMargin": 16,
+      "type": "PanelSpriteObject::PanelSprite",
+      "width": 48,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "319522814a301a2649784df125b9fbe6104f7b11f7b81455995f2a38ac40c3dd",
+      "name": "Wood_Platform",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "Jumpthru",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Wood Platform.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 48,
+                        "y": 0
+                      },
+                      {
+                        "x": 48,
+                        "y": 5
+                      },
+                      {
+                        "x": 0,
+                        "y": 5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "height": 32,
+      "name": "OutsideBorders",
+      "texture": "NewTiledSprite",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "ce75b4d3db5313cd40588a712e5cb20dffce5d9187df56eefd8fb050ceea2330",
+      "name": "Coin",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Coin.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 28,
+                        "y": 0
+                      },
+                      {
+                        "x": 28,
+                        "y": 35
+                      },
+                      {
+                        "x": 0,
+                        "y": 35
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "42db1b71a89cf8bffa7ac1bac947ce08d47fd80a7ce377c65179509bf6baa059",
+      "name": "Merged_Full_Background",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Merged Full Background.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 340,
+                        "y": 0
+                      },
+                      {
+                        "x": 340,
+                        "y": 240
+                      },
+                      {
+                        "x": 0,
+                        "y": 240
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "96f2c3e13226d98366da894f262fb2a3df0ee2864333a5b04ea006196bc7e716",
+      "name": "Bat",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "Fly",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.1667,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Bat_Fly_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 7,
+                        "y": 8
+                      },
+                      {
+                        "x": 21,
+                        "y": 8
+                      },
+                      {
+                        "x": 21,
+                        "y": 23
+                      },
+                      {
+                        "x": 7,
+                        "y": 23
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Bat_Fly_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 7,
+                        "y": 8
+                      },
+                      {
+                        "x": 21,
+                        "y": 8
+                      },
+                      {
+                        "x": 21,
+                        "y": 23
+                      },
+                      {
+                        "x": 7,
+                        "y": 23
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Bat_Fly_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 7,
+                        "y": 8
+                      },
+                      {
+                        "x": 21,
+                        "y": 8
+                      },
+                      {
+                        "x": 21,
+                        "y": 23
+                      },
+                      {
+                        "x": 7,
+                        "y": 23
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Bat_Fly_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 7,
+                        "y": 8
+                      },
+                      {
+                        "x": 21,
+                        "y": 8
+                      },
+                      {
+                        "x": 21,
+                        "y": 23
+                      },
+                      {
+                        "x": 7,
+                        "y": 23
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Bat_Fly_6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 7,
+                        "y": 8
+                      },
+                      {
+                        "x": 21,
+                        "y": 8
+                      },
+                      {
+                        "x": 21,
+                        "y": 23
+                      },
+                      {
+                        "x": 7,
+                        "y": 23
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "c068513dc8ff173f9da9e64344bacd66d2be2fb4e8ff75548697a3e4531cca32",
+      "name": "Green_switch",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "left",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Green switch_left.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 11
+                      },
+                      {
+                        "x": 48,
+                        "y": 11
+                      },
+                      {
+                        "x": 48,
+                        "y": 58
+                      },
+                      {
+                        "x": 1,
+                        "y": 58
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "mid",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Green switch_mid.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 11
+                      },
+                      {
+                        "x": 48,
+                        "y": 11
+                      },
+                      {
+                        "x": 48,
+                        "y": 58
+                      },
+                      {
+                        "x": 1,
+                        "y": 58
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "right",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Green switch_right.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 11
+                      },
+                      {
+                        "x": 48,
+                        "y": 11
+                      },
+                      {
+                        "x": 48,
+                        "y": 58
+                      },
+                      {
+                        "x": 1,
+                        "y": 58
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "2edc83bc43d0c138874979a18b9bb7540e65cb3ae76c540170dd0478073c20e4",
+      "name": "Inventory_Slot_Empty2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Inventory Slot Empty2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 5
+                      },
+                      {
+                        "x": 27,
+                        "y": 5
+                      },
+                      {
+                        "x": 27,
+                        "y": 27
+                      },
+                      {
+                        "x": 5,
+                        "y": 27
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "NewBBText",
+      "type": "BBText::BBText",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "You completed the game!",
+        "opacity": 255,
+        "fontSize": 40,
+        "visible": true,
+        "color": "253;253;253",
+        "fontFamily": "PressStart2P-Regular.ttf",
+        "align": "center",
+        "verticalTextAlignment": "top"
+      }
+    },
+    {
+      "assetStoreId": "3699f3a9dbcacb430dfb90834c239c60a0324b631635c6658396cd524c7adb0a",
+      "name": "PurpleButtonWithStoneFrame",
+      "type": "PanelSpriteButton::PanelSpriteButton",
+      "variant": "Purple Button With Stone Frame",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "LeftPadding": 0,
+        "RightPadding": 0,
+        "PressedLabelOffsetY": 2,
+        "BottomPadding": 0,
+        "TopPadding": 0,
+        "HoveredFadeOutDuration": 0.2,
+        "LabelText": ""
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "NewBBText3",
+      "type": "BBText::BBText",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "Play again",
+        "opacity": 255,
+        "fontSize": 23,
+        "visible": true,
+        "color": "253;253;253",
+        "fontFamily": "PressStart2P-Regular.ttf",
+        "align": "left",
+        "verticalTextAlignment": "top"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "NewBBText4",
+      "type": "BBText::BBText",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "Try again",
+        "opacity": 255,
+        "fontSize": 23,
+        "visible": true,
+        "color": "253;253;253",
+        "fontFamily": "PressStart2P-Regular.ttf",
+        "align": "left",
+        "verticalTextAlignment": "top"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "NewBBText5",
+      "type": "BBText::BBText",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "You Died!",
+        "opacity": 255,
+        "fontSize": 40,
+        "visible": true,
+        "color": "253;253;253",
+        "fontFamily": "PressStart2P-Regular.ttf",
+        "align": "left",
+        "verticalTextAlignment": "top"
+      }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "531e7a0b598a2f0e2b8193781bce5dc000d694dc688eaa6b9fa4a3fc8f76827d",
+      "name": "Cactus_1",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Cactus 1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 43,
+                        "y": 0
+                      },
+                      {
+                        "x": 43,
+                        "y": 61
+                      },
+                      {
+                        "x": 0,
+                        "y": 61
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "073acace0e46e88aa6459ac18e3b535ce9d7d2767e0ec6ea1cf3fd7b937f75a4",
+      "name": "Bush_foreground",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Bush foreground.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 7
+                      },
+                      {
+                        "x": 46,
+                        "y": 7
+                      },
+                      {
+                        "x": 46,
+                        "y": 24
+                      },
+                      {
+                        "x": 3,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "Text_coinCount"
+      },
+      {
+        "objectName": "Coin2"
+      },
+      {
+        "objectName": "Virtual_Guy"
+      },
+      {
+        "objectName": "Green_Grass_9Patch"
+      },
+      {
+        "objectName": "Wood_Platform"
+      },
+      {
+        "objectName": "OutsideBorders"
+      },
+      {
+        "objectName": "Coin"
+      },
+      {
+        "objectName": "Merged_Full_Background"
+      },
+      {
+        "objectName": "Bat"
+      },
+      {
+        "objectName": "Green_switch"
+      },
+      {
+        "objectName": "Inventory_Slot_Empty2"
+      },
+      {
+        "objectName": "NewBBText"
+      },
+      {
+        "objectName": "NewBBText3"
+      },
+      {
+        "objectName": "NewBBText4"
+      },
+      {
+        "objectName": "NewBBText5"
+      },
+      {
+        "objectName": "Cactus_1"
+      },
+      {
+        "objectName": "Bush_foreground"
+      },
+      {
+        "objectName": "PurpleButtonWithStoneFrame"
+      }
+    ]
+  },
+  "objectsGroups": [],
+  "variables": [
+    {
+      "name": "Coin_Count",
+      "type": "number",
+      "value": 0
+    }
+  ],
+  "layouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/level-1"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/level-2"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/youdied"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/completed"
+    }
+  ],
+  "externalEvents": [],
+  "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/panelspritebutton"
+    }
+  ],
+  "externalLayouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalLayouts/ui-layout"
+    }
+  ]
+}
